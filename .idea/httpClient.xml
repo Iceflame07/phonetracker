@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;f0b058d550c4e0e47ac12d4f789deba69b830929&quot; value=&quot;###&amp;#10;POST http://localhost:8080/api/phones/update/{{id}}&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;id&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;phoneNumber&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;brand&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;model&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;latitude&amp;quot;: 0,&amp;#10;  &amp;quot;longitude&amp;quot;: 0,&amp;#10;  &amp;quot;lastSeen&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;isActive&amp;quot;: false&amp;#10;}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
